@@ -5,9 +5,12 @@ My portfolio website
 
 ___
 
-Teck-Stack
+Tech-Stack
 - [tailwindcss](https://tailwindcss.com/)
 
+## Deployment 
+
+Site ist automatically build and deployed using github Actions.
 
 ## Development notes 
 
