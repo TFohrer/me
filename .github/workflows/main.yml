@@ -23,7 +23,7 @@ jobs:
     - name: Build 🔧 # The project is built using npm and placed in the 'build' folder.
       run: |
         npm install
-        npm run-script build
+        parcel build src/index.html --public-url /me/
         
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
