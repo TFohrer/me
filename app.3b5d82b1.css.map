@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.pcss"],"names":[],"mappings":"AAAA,2EAAc,CAAd,iBAAA,qBAAc,CAAd,sBAAc","file":"app.3b5d82b1.css","sourceRoot":"../src","sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n"]}
