@@ -1,13 +1,15 @@
-# me
+# Hi there!
 
-My portfolio website
-
+I'm Tarek and a Web-Developer who loves to turn complex designs into code.
 
 ___
 
-Tech-Stack
-- [tailwindcss](https://tailwindcss.com/)
+This is the source code of my personal website.
 
+## Stack
+
+- Development:  [parcel](https://parceljs.org/) + [Tailwind CSS](https://tailwindcss.com/) + [PostCSS](https://postcss.org/)
+- Deployment: GitHub Actions 
 ## Deployment 
 
 Site ist automatically build and deployed using github Actions.
