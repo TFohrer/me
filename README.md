@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Tarek and a Web-Developer who loves to turn complex designs into code.
+I'm Tarek and a Web Developer who loves to turn complex designs into code.
 
 ___
 
