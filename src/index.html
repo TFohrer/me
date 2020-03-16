@@ -7,10 +7,20 @@
 </head>
 <body class="font-inter bg-orange-100">
     <div class="container mx-auto px-6">
-        <div class="py-20">
-            <h1 class="text-4xl mb-2">Hi, <br> I'm Tarek</h1>
-            <p class="text-xl text-gray-600">I'm a Web Developer from Munich who loves to turn designs and concepts to code.</p>
-        </div>
+        <section class="hero my-20 flex flex-wrap">
+            <div class="hero__image-container w-full md:w-7/12 xl:w-6/12 xl:ml-auto">
+                <picture>
+                    <source srcset="images/me.jpeg">
+                    <img src="images/me.jpeg" alt="Small human, big nature" style="width:auto;">
+                </picture>
+            </div>
+            <div class="w-full md:w-4/12 mr-auto self-center">
+                <div class="mt-auto p-5 bg-blue-900 hero__text-overlay-container md:-m-12">
+                    <h1 class="text-3xl md:text-5xl mb-2 text-orange-100">Hi, <br> I'm Tarek</h1>
+                    <p class="text-xl text-gray-500">I'm a Web Developer from Munich who loves to turn designs and concepts to code.</p>
+                </div>
+            </div>
+        </section>
     </div>
     <script src="./index.js"></script>
 </body>
